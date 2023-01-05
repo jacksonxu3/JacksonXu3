@@ -7,7 +7,7 @@ Unfortunately, some project code has to be kept in private repositories, but her
 [N-Gram and Wordnet](https://www.youtube.com/watch?v=MG4Li9JN7Cw)  
 [Maze](https://www.youtube.com/watch?v=u3rqaOdaw9I)  
 
-For any comments or questions, email me at [jacksonxu3@gmail.com](jacksonxu3@gmail.com).
+📫 For any comments or questions, you can email me at [jacksonxu3@gmail.com](jacksonxu3@gmail.com).
 
 <!--
 **jacksonxu3/JacksonXu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
