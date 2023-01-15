@@ -1,4 +1,4 @@
-### 👋 Hey there and welcome to my Github! 
+### 👋 Hey there and welcome to my Github!
 😄 [LinkedIn](https://www.linkedin.com/in/jackson-xu-7aa35824a/)
 
 Feel free to check out any of my repositories.  
