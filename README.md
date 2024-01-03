@@ -2,7 +2,10 @@
 😄 [LinkedIn](https://www.linkedin.com/in/jackson-xu-7aa35824a/)
 
 Feel free to check out any of my repositories.  
-Unfortunately, some of my project code has to be kept private, but here are some video demonstrations:  
+Unfortunately, some of my project code has to be kept private, but here are some demonstrations:  
+Interactive Demonstrations:  
+🗺️ [Action Map](https://fa23-38-874731c11d29.herokuapp.com/)  
+Video Demonstrations:  
 🌎 [Build Your Own World](https://www.youtube.com/watch?v=zo3LWigAq5w)  
 📊 [N-Gram and Wordnet](https://www.youtube.com/watch?v=MG4Li9JN7Cw)  
 🔎 [Maze](https://www.youtube.com/watch?v=NIGuNGannwA&ab_channel=JacksonXu)  
